@@ -1,0 +1,1376 @@
+
+ SIMULATION RESULTS - Sun Apr 13 23:50:22 EEST 2025
+
+
+Starting simulation...
+
+=== Simulation started ===
+
+Time limit: 60
+
+Initial clients: 50
+
+
+=== Time 0 ===
+Remaining waiting clients: 50
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 1 ===
+Remaining waiting clients: 50
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 2 ===
+Remaining waiting clients: 48
+Queue 1: Client 19 (AT:2, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 3 ===
+Remaining waiting clients: 48
+Queue 1: Client 19 (AT:2, ST:5, IniST:6, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:6, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 4 ===
+Remaining waiting clients: 47
+Queue 1: Client 19 (AT:2, ST:4, IniST:6, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:5, IniST:7, LeaveQ:-1)
+Queue 3: Client 8 (AT:4, ST:2, IniST:2, LeaveQ:-1)
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 5 ===
+Remaining waiting clients: 46
+Queue 1: Client 19 (AT:2, ST:3, IniST:6, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:4, IniST:7, LeaveQ:-1)
+Queue 3: Client 8 (AT:4, ST:1, IniST:2, LeaveQ:-1)
+Queue 4: Client 26 (AT:5, ST:5, IniST:5, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 6 ===
+Remaining waiting clients: 46
+Queue 1: Client 19 (AT:2, ST:2, IniST:6, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:3, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: Client 26 (AT:5, ST:4, IniST:5, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 7 ===
+Remaining waiting clients: 44
+Queue 1: Client 19 (AT:2, ST:1, IniST:6, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:2, IniST:7, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 26 (AT:5, ST:3, IniST:5, LeaveQ:-1)
+Queue 5: Client 31 (AT:7, ST:4, IniST:4, LeaveQ:-1)
+
+
+=== Time 8 ===
+Remaining waiting clients: 42
+Queue 1: Client 13 (AT:8, ST:3, IniST:3, LeaveQ:-1)
+Queue 2: Client 39 (AT:2, ST:1, IniST:7, LeaveQ:-1); Client 21 (AT:8, ST:6, IniST:6, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:6, IniST:7, LeaveQ:-1)
+Queue 4: Client 26 (AT:5, ST:2, IniST:5, LeaveQ:-1)
+Queue 5: Client 31 (AT:7, ST:3, IniST:4, LeaveQ:-1)
+
+
+=== Time 9 ===
+Remaining waiting clients: 40
+Queue 1: Client 13 (AT:8, ST:2, IniST:3, LeaveQ:-1); Client 25 (AT:9, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 21 (AT:8, ST:6, IniST:6, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:5, IniST:7, LeaveQ:-1)
+Queue 4: Client 26 (AT:5, ST:1, IniST:5, LeaveQ:-1); Client 4 (AT:9, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 31 (AT:7, ST:2, IniST:4, LeaveQ:-1)
+
+
+=== Time 10 ===
+Remaining waiting clients: 39
+Queue 1: Client 13 (AT:8, ST:1, IniST:3, LeaveQ:-1); Client 25 (AT:9, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 21 (AT:8, ST:5, IniST:6, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:4, IniST:7, LeaveQ:-1)
+Queue 4: Client 4 (AT:9, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 31 (AT:7, ST:1, IniST:4, LeaveQ:-1); Client 47 (AT:10, ST:3, IniST:3, LeaveQ:-1)
+
+
+=== Time 11 ===
+Remaining waiting clients: 36
+Queue 1: Client 25 (AT:9, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 21 (AT:8, ST:4, IniST:6, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:3, IniST:7, LeaveQ:-1); Client 18 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 4 (AT:9, ST:2, IniST:3, LeaveQ:-1); Client 11 (AT:11, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 47 (AT:10, ST:3, IniST:3, LeaveQ:-1); Client 30 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 12 ===
+Remaining waiting clients: 33
+Queue 1: Client 25 (AT:9, ST:5, IniST:6, LeaveQ:-1)
+Queue 2: Client 21 (AT:8, ST:3, IniST:6, LeaveQ:-1); Client 2 (AT:12, ST:1, IniST:1, LeaveQ:-1); Client 15 (AT:12, ST:3, IniST:3, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:2, IniST:7, LeaveQ:-1); Client 18 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 4 (AT:9, ST:1, IniST:3, LeaveQ:-1); Client 11 (AT:11, ST:3, IniST:3, LeaveQ:-1); Client 28 (AT:12, ST:4, IniST:4, LeaveQ:-1)
+Queue 5: Client 47 (AT:10, ST:2, IniST:3, LeaveQ:-1); Client 30 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 13 ===
+Remaining waiting clients: 33
+Queue 1: Client 25 (AT:9, ST:4, IniST:6, LeaveQ:-1)
+Queue 2: Client 21 (AT:8, ST:2, IniST:6, LeaveQ:-1); Client 2 (AT:12, ST:1, IniST:1, LeaveQ:-1); Client 15 (AT:12, ST:3, IniST:3, LeaveQ:-1)
+Queue 3: Client 12 (AT:7, ST:1, IniST:7, LeaveQ:-1); Client 18 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 11 (AT:11, ST:3, IniST:3, LeaveQ:-1); Client 28 (AT:12, ST:4, IniST:4, LeaveQ:-1)
+Queue 5: Client 47 (AT:10, ST:1, IniST:3, LeaveQ:-1); Client 30 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 14 ===
+Remaining waiting clients: 33
+Queue 1: Client 25 (AT:9, ST:3, IniST:6, LeaveQ:-1)
+Queue 2: Client 21 (AT:8, ST:1, IniST:6, LeaveQ:-1); Client 2 (AT:12, ST:1, IniST:1, LeaveQ:-1); Client 15 (AT:12, ST:3, IniST:3, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 11 (AT:11, ST:2, IniST:3, LeaveQ:-1); Client 28 (AT:12, ST:4, IniST:4, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 15 ===
+Remaining waiting clients: 32
+Queue 1: Client 25 (AT:9, ST:2, IniST:6, LeaveQ:-1); Client 46 (AT:15, ST:3, IniST:3, LeaveQ:-1)
+Queue 2: Client 2 (AT:12, ST:1, IniST:1, LeaveQ:-1); Client 15 (AT:12, ST:3, IniST:3, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:6, IniST:7, LeaveQ:-1)
+Queue 4: Client 11 (AT:11, ST:1, IniST:3, LeaveQ:-1); Client 28 (AT:12, ST:4, IniST:4, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:6, IniST:7, LeaveQ:-1)
+
+
+=== Time 16 ===
+Remaining waiting clients: 32
+Queue 1: Client 25 (AT:9, ST:1, IniST:6, LeaveQ:-1); Client 46 (AT:15, ST:3, IniST:3, LeaveQ:-1)
+Queue 2: Client 15 (AT:12, ST:3, IniST:3, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:5, IniST:7, LeaveQ:-1)
+Queue 4: Client 28 (AT:12, ST:4, IniST:4, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:5, IniST:7, LeaveQ:-1)
+
+
+=== Time 17 ===
+Remaining waiting clients: 31
+Queue 1: Client 46 (AT:15, ST:3, IniST:3, LeaveQ:-1)
+Queue 2: Client 15 (AT:12, ST:2, IniST:3, LeaveQ:-1); Client 14 (AT:17, ST:4, IniST:4, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:4, IniST:7, LeaveQ:-1)
+Queue 4: Client 28 (AT:12, ST:3, IniST:4, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:4, IniST:7, LeaveQ:-1)
+
+
+=== Time 18 ===
+Remaining waiting clients: 31
+Queue 1: Client 46 (AT:15, ST:2, IniST:3, LeaveQ:-1)
+Queue 2: Client 15 (AT:12, ST:1, IniST:3, LeaveQ:-1); Client 14 (AT:17, ST:4, IniST:4, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:3, IniST:7, LeaveQ:-1)
+Queue 4: Client 28 (AT:12, ST:2, IniST:4, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:3, IniST:7, LeaveQ:-1)
+
+
+=== Time 19 ===
+Remaining waiting clients: 30
+Queue 1: Client 46 (AT:15, ST:1, IniST:3, LeaveQ:-1); Client 32 (AT:19, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 14 (AT:17, ST:4, IniST:4, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:2, IniST:7, LeaveQ:-1)
+Queue 4: Client 28 (AT:12, ST:1, IniST:4, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:2, IniST:7, LeaveQ:-1)
+
+
+=== Time 20 ===
+Remaining waiting clients: 29
+Queue 1: Client 32 (AT:19, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 14 (AT:17, ST:3, IniST:4, LeaveQ:-1)
+Queue 3: Client 18 (AT:11, ST:1, IniST:7, LeaveQ:-1)
+Queue 4: Client 23 (AT:20, ST:2, IniST:2, LeaveQ:-1)
+Queue 5: Client 30 (AT:11, ST:1, IniST:7, LeaveQ:-1)
+
+
+=== Time 21 ===
+Remaining waiting clients: 28
+Queue 1: Client 32 (AT:19, ST:5, IniST:6, LeaveQ:-1)
+Queue 2: Client 14 (AT:17, ST:2, IniST:4, LeaveQ:-1)
+Queue 3: Client 45 (AT:21, ST:3, IniST:3, LeaveQ:-1)
+Queue 4: Client 23 (AT:20, ST:1, IniST:2, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 22 ===
+Remaining waiting clients: 27
+Queue 1: Client 32 (AT:19, ST:4, IniST:6, LeaveQ:-1)
+Queue 2: Client 14 (AT:17, ST:1, IniST:4, LeaveQ:-1)
+Queue 3: Client 45 (AT:21, ST:2, IniST:3, LeaveQ:-1)
+Queue 4: Client 1 (AT:22, ST:2, IniST:2, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 23 ===
+Remaining waiting clients: 26
+Queue 1: Client 32 (AT:19, ST:3, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 45 (AT:21, ST:1, IniST:3, LeaveQ:-1)
+Queue 4: Client 1 (AT:22, ST:1, IniST:2, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 24 ===
+Remaining waiting clients: 25
+Queue 1: Client 32 (AT:19, ST:2, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:6, IniST:7, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 25 ===
+Remaining waiting clients: 24
+Queue 1: Client 32 (AT:19, ST:1, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:5, IniST:7, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:6, IniST:7, LeaveQ:-1)
+Queue 4: Client 9 (AT:25, ST:5, IniST:5, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 26 ===
+Remaining waiting clients: 23
+Queue 1: Client 29 (AT:26, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:4, IniST:7, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:5, IniST:7, LeaveQ:-1)
+Queue 4: Client 9 (AT:25, ST:4, IniST:5, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 27 ===
+Remaining waiting clients: 22
+Queue 1: Client 29 (AT:26, ST:5, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:3, IniST:7, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:4, IniST:7, LeaveQ:-1)
+Queue 4: Client 9 (AT:25, ST:3, IniST:5, LeaveQ:-1)
+Queue 5: Client 3 (AT:27, ST:4, IniST:4, LeaveQ:-1)
+
+
+=== Time 28 ===
+Remaining waiting clients: 19
+Queue 1: Client 29 (AT:26, ST:4, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:2, IniST:7, LeaveQ:-1); Client 36 (AT:28, ST:2, IniST:2, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:3, IniST:7, LeaveQ:-1); Client 40 (AT:28, ST:1, IniST:1, LeaveQ:-1)
+Queue 4: Client 9 (AT:25, ST:2, IniST:5, LeaveQ:-1); Client 37 (AT:28, ST:6, IniST:6, LeaveQ:-1)
+Queue 5: Client 3 (AT:27, ST:3, IniST:4, LeaveQ:-1)
+
+
+=== Time 29 ===
+Remaining waiting clients: 18
+Queue 1: Client 29 (AT:26, ST:3, IniST:6, LeaveQ:-1)
+Queue 2: Client 6 (AT:23, ST:1, IniST:7, LeaveQ:-1); Client 36 (AT:28, ST:2, IniST:2, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:2, IniST:7, LeaveQ:-1); Client 40 (AT:28, ST:1, IniST:1, LeaveQ:-1)
+Queue 4: Client 9 (AT:25, ST:1, IniST:5, LeaveQ:-1); Client 37 (AT:28, ST:6, IniST:6, LeaveQ:-1)
+Queue 5: Client 3 (AT:27, ST:2, IniST:4, LeaveQ:-1); Client 7 (AT:29, ST:2, IniST:2, LeaveQ:-1)
+
+
+=== Time 30 ===
+Remaining waiting clients: 15
+Queue 1: Client 29 (AT:26, ST:2, IniST:6, LeaveQ:-1); Client 24 (AT:30, ST:7, IniST:7, LeaveQ:-1)
+Queue 2: Client 36 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 38 (AT:30, ST:6, IniST:6, LeaveQ:-1)
+Queue 3: Client 43 (AT:24, ST:1, IniST:7, LeaveQ:-1); Client 40 (AT:28, ST:1, IniST:1, LeaveQ:-1); Client 49 (AT:30, ST:3, IniST:3, LeaveQ:-1)
+Queue 4: Client 37 (AT:28, ST:6, IniST:6, LeaveQ:-1)
+Queue 5: Client 3 (AT:27, ST:1, IniST:4, LeaveQ:-1); Client 7 (AT:29, ST:2, IniST:2, LeaveQ:-1)
+
+
+=== Time 31 ===
+Remaining waiting clients: 14
+Queue 1: Client 29 (AT:26, ST:1, IniST:6, LeaveQ:-1); Client 24 (AT:30, ST:7, IniST:7, LeaveQ:-1)
+Queue 2: Client 36 (AT:28, ST:1, IniST:2, LeaveQ:-1); Client 38 (AT:30, ST:6, IniST:6, LeaveQ:-1)
+Queue 3: Client 40 (AT:28, ST:1, IniST:1, LeaveQ:-1); Client 49 (AT:30, ST:3, IniST:3, LeaveQ:-1)
+Queue 4: Client 37 (AT:28, ST:5, IniST:6, LeaveQ:-1)
+Queue 5: Client 7 (AT:29, ST:2, IniST:2, LeaveQ:-1); Client 22 (AT:31, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 32 ===
+Remaining waiting clients: 13
+Queue 1: Client 24 (AT:30, ST:7, IniST:7, LeaveQ:-1)
+Queue 2: Client 38 (AT:30, ST:6, IniST:6, LeaveQ:-1)
+Queue 3: Client 49 (AT:30, ST:3, IniST:3, LeaveQ:-1); Client 48 (AT:32, ST:6, IniST:6, LeaveQ:-1)
+Queue 4: Client 37 (AT:28, ST:4, IniST:6, LeaveQ:-1)
+Queue 5: Client 7 (AT:29, ST:1, IniST:2, LeaveQ:-1); Client 22 (AT:31, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 33 ===
+Remaining waiting clients: 10
+Queue 1: Client 24 (AT:30, ST:6, IniST:7, LeaveQ:-1)
+Queue 2: Client 38 (AT:30, ST:5, IniST:6, LeaveQ:-1); Client 27 (AT:33, ST:4, IniST:4, LeaveQ:-1)
+Queue 3: Client 49 (AT:30, ST:2, IniST:3, LeaveQ:-1); Client 48 (AT:32, ST:6, IniST:6, LeaveQ:-1)
+Queue 4: Client 37 (AT:28, ST:3, IniST:6, LeaveQ:-1); Client 17 (AT:33, ST:2, IniST:2, LeaveQ:-1); Client 34 (AT:33, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 34 ===
+Remaining waiting clients: 6
+Queue 1: Client 24 (AT:30, ST:5, IniST:7, LeaveQ:-1); Client 5 (AT:34, ST:4, IniST:4, LeaveQ:-1)
+Queue 2: Client 38 (AT:30, ST:4, IniST:6, LeaveQ:-1); Client 27 (AT:33, ST:4, IniST:4, LeaveQ:-1)
+Queue 3: Client 49 (AT:30, ST:1, IniST:3, LeaveQ:-1); Client 48 (AT:32, ST:6, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1)
+Queue 4: Client 37 (AT:28, ST:2, IniST:6, LeaveQ:-1); Client 17 (AT:33, ST:2, IniST:2, LeaveQ:-1); Client 34 (AT:33, ST:3, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:6, IniST:7, LeaveQ:-1); Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 35 ===
+Remaining waiting clients: 6
+Queue 1: Client 24 (AT:30, ST:4, IniST:7, LeaveQ:-1); Client 5 (AT:34, ST:4, IniST:4, LeaveQ:-1)
+Queue 2: Client 38 (AT:30, ST:3, IniST:6, LeaveQ:-1); Client 27 (AT:33, ST:4, IniST:4, LeaveQ:-1)
+Queue 3: Client 48 (AT:32, ST:6, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1)
+Queue 4: Client 37 (AT:28, ST:1, IniST:6, LeaveQ:-1); Client 17 (AT:33, ST:2, IniST:2, LeaveQ:-1); Client 34 (AT:33, ST:3, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:5, IniST:7, LeaveQ:-1); Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 36 ===
+Remaining waiting clients: 5
+Queue 1: Client 24 (AT:30, ST:3, IniST:7, LeaveQ:-1); Client 5 (AT:34, ST:4, IniST:4, LeaveQ:-1)
+Queue 2: Client 38 (AT:30, ST:2, IniST:6, LeaveQ:-1); Client 27 (AT:33, ST:4, IniST:4, LeaveQ:-1); Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1)
+Queue 3: Client 48 (AT:32, ST:5, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1)
+Queue 4: Client 17 (AT:33, ST:2, IniST:2, LeaveQ:-1); Client 34 (AT:33, ST:3, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:4, IniST:7, LeaveQ:-1); Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 37 ===
+Remaining waiting clients: 2
+Queue 1: Client 24 (AT:30, ST:2, IniST:7, LeaveQ:-1); Client 5 (AT:34, ST:4, IniST:4, LeaveQ:-1); Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 38 (AT:30, ST:1, IniST:6, LeaveQ:-1); Client 27 (AT:33, ST:4, IniST:4, LeaveQ:-1); Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1)
+Queue 3: Client 48 (AT:32, ST:4, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1); Client 16 (AT:37, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 17 (AT:33, ST:1, IniST:2, LeaveQ:-1); Client 34 (AT:33, ST:3, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:3, IniST:7, LeaveQ:-1); Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 38 ===
+Remaining waiting clients: 1
+Queue 1: Client 24 (AT:30, ST:1, IniST:7, LeaveQ:-1); Client 5 (AT:34, ST:4, IniST:4, LeaveQ:-1); Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 27 (AT:33, ST:4, IniST:4, LeaveQ:-1); Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1)
+Queue 3: Client 48 (AT:32, ST:3, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1); Client 16 (AT:37, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 34 (AT:33, ST:3, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:2, IniST:7, LeaveQ:-1); Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 39 ===
+Remaining waiting clients: 1
+Queue 1: Client 5 (AT:34, ST:4, IniST:4, LeaveQ:-1); Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 27 (AT:33, ST:3, IniST:4, LeaveQ:-1); Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1)
+Queue 3: Client 48 (AT:32, ST:2, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1); Client 16 (AT:37, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 34 (AT:33, ST:2, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 22 (AT:31, ST:1, IniST:7, LeaveQ:-1); Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 40 ===
+Remaining waiting clients: 0
+Queue 1: Client 5 (AT:34, ST:3, IniST:4, LeaveQ:-1); Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 27 (AT:33, ST:2, IniST:4, LeaveQ:-1); Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 48 (AT:32, ST:1, IniST:6, LeaveQ:-1); Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1); Client 16 (AT:37, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 34 (AT:33, ST:1, IniST:3, LeaveQ:-1); Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:7, IniST:7, LeaveQ:-1)
+
+
+=== Time 41 ===
+Remaining waiting clients: 0
+Queue 1: Client 5 (AT:34, ST:2, IniST:4, LeaveQ:-1); Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 27 (AT:33, ST:1, IniST:4, LeaveQ:-1); Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 42 (AT:34, ST:1, IniST:1, LeaveQ:-1); Client 16 (AT:37, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 44 (AT:34, ST:3, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:6, IniST:7, LeaveQ:-1)
+
+
+=== Time 42 ===
+Remaining waiting clients: 0
+Queue 1: Client 5 (AT:34, ST:1, IniST:4, LeaveQ:-1); Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 41 (AT:36, ST:5, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:7, IniST:7, LeaveQ:-1)
+Queue 4: Client 44 (AT:34, ST:2, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:5, IniST:7, LeaveQ:-1)
+
+
+=== Time 43 ===
+Remaining waiting clients: 0
+Queue 1: Client 33 (AT:37, ST:6, IniST:6, LeaveQ:-1)
+Queue 2: Client 41 (AT:36, ST:4, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:6, IniST:7, LeaveQ:-1)
+Queue 4: Client 44 (AT:34, ST:1, IniST:3, LeaveQ:-1); Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:4, IniST:7, LeaveQ:-1)
+
+
+=== Time 44 ===
+Remaining waiting clients: 0
+Queue 1: Client 33 (AT:37, ST:5, IniST:6, LeaveQ:-1)
+Queue 2: Client 41 (AT:36, ST:3, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:5, IniST:7, LeaveQ:-1)
+Queue 4: Client 35 (AT:37, ST:1, IniST:1, LeaveQ:-1); Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:3, IniST:7, LeaveQ:-1)
+
+
+=== Time 45 ===
+Remaining waiting clients: 0
+Queue 1: Client 33 (AT:37, ST:4, IniST:6, LeaveQ:-1)
+Queue 2: Client 41 (AT:36, ST:2, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:4, IniST:7, LeaveQ:-1)
+Queue 4: Client 20 (AT:38, ST:3, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:2, IniST:7, LeaveQ:-1)
+
+
+=== Time 46 ===
+Remaining waiting clients: 0
+Queue 1: Client 33 (AT:37, ST:3, IniST:6, LeaveQ:-1)
+Queue 2: Client 41 (AT:36, ST:1, IniST:5, LeaveQ:-1); Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:3, IniST:7, LeaveQ:-1)
+Queue 4: Client 20 (AT:38, ST:2, IniST:3, LeaveQ:-1)
+Queue 5: Client 10 (AT:34, ST:1, IniST:7, LeaveQ:-1)
+
+
+=== Time 47 ===
+Remaining waiting clients: 0
+Queue 1: Client 33 (AT:37, ST:2, IniST:6, LeaveQ:-1)
+Queue 2: Client 50 (AT:40, ST:7, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:2, IniST:7, LeaveQ:-1)
+Queue 4: Client 20 (AT:38, ST:1, IniST:3, LeaveQ:-1)
+Queue 5: closed
+
+
+=== Time 48 ===
+Remaining waiting clients: 0
+Queue 1: Client 33 (AT:37, ST:1, IniST:6, LeaveQ:-1)
+Queue 2: Client 50 (AT:40, ST:6, IniST:7, LeaveQ:-1)
+Queue 3: Client 16 (AT:37, ST:1, IniST:7, LeaveQ:-1)
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 49 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 50 (AT:40, ST:5, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 50 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 50 (AT:40, ST:4, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 51 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 50 (AT:40, ST:3, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 52 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 50 (AT:40, ST:2, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 53 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 50 (AT:40, ST:1, IniST:7, LeaveQ:-1)
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+=== Time 54 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+All clients processed or time limit reached.
+
+
+ Average waiting time: 2.50
+
+
+
+=== Simulation ended ===
+
+
+
+ SIMULATION RESULTS - Mon Apr 14 00:28:52 EEST 2025
+
+
+Starting simulation...
+
+=== Simulation started ===
+
+Time limit: 60
+
+Initial clients: 4
+
+
+=== Time 0 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 1 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 2 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 3 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 4 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 5 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 6 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 7 ===
+Remaining waiting clients: 3
+Queue 1: Client 2 (AT:7, ST:4, IniST:4, LeaveQ:-1)
+Queue 2: closed
+
+
+=== Time 8 ===
+Remaining waiting clients: 3
+Queue 1: Client 2 (AT:7, ST:3, IniST:4, LeaveQ:-1)
+Queue 2: closed
+
+
+=== Time 9 ===
+Remaining waiting clients: 3
+Queue 1: Client 2 (AT:7, ST:2, IniST:4, LeaveQ:-1)
+Queue 2: closed
+
+
+=== Time 10 ===
+Remaining waiting clients: 3
+Queue 1: Client 2 (AT:7, ST:1, IniST:4, LeaveQ:-1)
+Queue 2: closed
+
+
+=== Time 11 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 12 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 13 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 14 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 15 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 16 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 17 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 18 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 19 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 20 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 21 ===
+Remaining waiting clients: 1
+Queue 1: Client 3 (AT:21, ST:4, IniST:4, LeaveQ:-1)
+Queue 2: Client 4 (AT:21, ST:2, IniST:2, LeaveQ:-1)
+
+
+=== Time 22 ===
+Remaining waiting clients: 1
+Queue 1: Client 3 (AT:21, ST:3, IniST:4, LeaveQ:-1)
+Queue 2: Client 4 (AT:21, ST:1, IniST:2, LeaveQ:-1)
+
+
+=== Time 23 ===
+Remaining waiting clients: 1
+Queue 1: Client 3 (AT:21, ST:2, IniST:4, LeaveQ:-1)
+Queue 2: closed
+
+
+=== Time 24 ===
+Remaining waiting clients: 0
+Queue 1: Client 3 (AT:21, ST:1, IniST:4, LeaveQ:-1)
+Queue 2: Client 1 (AT:24, ST:4, IniST:4, LeaveQ:-1)
+
+
+=== Time 25 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 1 (AT:24, ST:3, IniST:4, LeaveQ:-1)
+
+
+=== Time 26 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 1 (AT:24, ST:2, IniST:4, LeaveQ:-1)
+
+
+=== Time 27 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: Client 1 (AT:24, ST:1, IniST:4, LeaveQ:-1)
+
+
+=== Time 28 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: closed
+
+
+All clients processed or time limit reached.
+
+
+ Average waiting time: 0.00
+
+
+
+=== Simulation ended ===
+
+
+
+ SIMULATION RESULTS - Mon Apr 14 19:13:53 EEST 2025
+
+
+Starting simulation...
+
+=== Simulation started ===
+
+Time limit: 60
+
+Initial clients: 4
+
+
+=== Time 0 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 1 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 2 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 3 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 4 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 5 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 6 ===
+Remaining waiting clients: 4
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 7 ===
+Remaining waiting clients: 3
+Queue 1: Client 4 (AT:7, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 8 ===
+Remaining waiting clients: 3
+Queue 1: Client 4 (AT:7, ST:2, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 9 ===
+Remaining waiting clients: 3
+Queue 1: Client 4 (AT:7, ST:1, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 10 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 11 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 12 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 13 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 14 ===
+Remaining waiting clients: 3
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 15 ===
+Remaining waiting clients: 2
+Queue 1: Client 3 (AT:15, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 16 ===
+Remaining waiting clients: 2
+Queue 1: Client 3 (AT:15, ST:2, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 17 ===
+Remaining waiting clients: 1
+Queue 1: Client 3 (AT:15, ST:1, IniST:3, LeaveQ:-1); 
+Queue 2: Client 2 (AT:17, ST:4, IniST:4, LeaveQ:-1); 
+
+
+=== Time 18 ===
+Remaining waiting clients: 1
+Queue 1: closed
+Queue 2: Client 2 (AT:17, ST:3, IniST:4, LeaveQ:-1); 
+
+
+=== Time 19 ===
+Remaining waiting clients: 1
+Queue 1: closed
+Queue 2: Client 2 (AT:17, ST:2, IniST:4, LeaveQ:-1); 
+
+
+=== Time 20 ===
+Remaining waiting clients: 1
+Queue 1: closed
+Queue 2: Client 2 (AT:17, ST:1, IniST:4, LeaveQ:-1); 
+
+
+=== Time 21 ===
+Remaining waiting clients: 1
+Queue 1: closed
+Queue 2: closed
+
+
+=== Time 22 ===
+Remaining waiting clients: 0
+Queue 1: Client 1 (AT:22, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 23 ===
+Remaining waiting clients: 0
+Queue 1: Client 1 (AT:22, ST:2, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 24 ===
+Remaining waiting clients: 0
+Queue 1: Client 1 (AT:22, ST:1, IniST:3, LeaveQ:-1); 
+Queue 2: closed
+
+
+=== Time 25 ===
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: closed
+
+
+All clients processed or time limit reached.
+
+
+ Average waiting time: 0.00
+
+
+
+=== Simulation ended ===
+
+
+
+ SIMULATION RESULTS - Mon Apr 14 23:03:40 EEST 2025
+
+
+Starting simulation...
+
+ Simulation started 
+
+Time limit: 60
+
+Initial clients: 50
+
+
+ Time 0 
+Remaining waiting clients: 50
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 1 
+Remaining waiting clients: 50
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 2 
+Remaining waiting clients: 47
+Queue 1: Client 6 (AT:2, ST:1, IniST:1, LeaveQ:-1); 
+Queue 2: Client 33 (AT:2, ST:1, IniST:1, LeaveQ:-1); 
+Queue 3: Client 39 (AT:2, ST:2, IniST:2, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 3 
+Remaining waiting clients: 46
+Queue 1: Client 21 (AT:3, ST:1, IniST:1, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: Client 39 (AT:2, ST:1, IniST:2, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 4 
+Remaining waiting clients: 45
+Queue 1: Client 48 (AT:4, ST:4, IniST:4, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 5 
+Remaining waiting clients: 43
+Queue 1: Client 48 (AT:4, ST:3, IniST:4, LeaveQ:-1); 
+Queue 2: Client 10 (AT:5, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 38 (AT:5, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 6 
+Remaining waiting clients: 43
+Queue 1: Client 48 (AT:4, ST:2, IniST:4, LeaveQ:-1); 
+Queue 2: Client 10 (AT:5, ST:5, IniST:6, LeaveQ:-1); 
+Queue 3: Client 38 (AT:5, ST:3, IniST:4, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 7 
+Remaining waiting clients: 42
+Queue 1: Client 48 (AT:4, ST:1, IniST:4, LeaveQ:-1); 
+Queue 2: Client 10 (AT:5, ST:4, IniST:6, LeaveQ:-1); 
+Queue 3: Client 38 (AT:5, ST:2, IniST:4, LeaveQ:-1); 
+Queue 4: Client 50 (AT:7, ST:3, IniST:3, LeaveQ:-1); 
+Queue 5: closed
+
+
+ Time 8 
+Remaining waiting clients: 40
+Queue 1: Client 1 (AT:8, ST:4, IniST:4, LeaveQ:-1); 
+Queue 2: Client 10 (AT:5, ST:3, IniST:6, LeaveQ:-1); 
+Queue 3: Client 38 (AT:5, ST:1, IniST:4, LeaveQ:-1); 
+Queue 4: Client 50 (AT:7, ST:2, IniST:3, LeaveQ:-1); 
+Queue 5: Client 34 (AT:8, ST:3, IniST:3, LeaveQ:-1); 
+
+
+ Time 9 
+Remaining waiting clients: 38
+Queue 1: Client 1 (AT:8, ST:3, IniST:4, LeaveQ:-1); 
+Queue 2: Client 10 (AT:5, ST:2, IniST:6, LeaveQ:-1); 
+Queue 3: Client 22 (AT:9, ST:5, IniST:5, LeaveQ:-1); 
+Queue 4: Client 50 (AT:7, ST:1, IniST:3, LeaveQ:-1); Client 31 (AT:9, ST:1, IniST:1, LeaveQ:-1); 
+Queue 5: Client 34 (AT:8, ST:2, IniST:3, LeaveQ:-1); 
+
+
+ Time 10 
+Remaining waiting clients: 37
+Queue 1: Client 1 (AT:8, ST:2, IniST:4, LeaveQ:-1); 
+Queue 2: Client 10 (AT:5, ST:1, IniST:6, LeaveQ:-1); Client 27 (AT:10, ST:2, IniST:2, LeaveQ:-1); 
+Queue 3: Client 22 (AT:9, ST:4, IniST:5, LeaveQ:-1); 
+Queue 4: Client 31 (AT:9, ST:1, IniST:1, LeaveQ:-1); 
+Queue 5: Client 34 (AT:8, ST:1, IniST:3, LeaveQ:-1); 
+
+
+ Time 11 
+Remaining waiting clients: 36
+Queue 1: Client 1 (AT:8, ST:1, IniST:4, LeaveQ:-1); 
+Queue 2: Client 27 (AT:10, ST:2, IniST:2, LeaveQ:-1); 
+Queue 3: Client 22 (AT:9, ST:3, IniST:5, LeaveQ:-1); 
+Queue 4: Client 18 (AT:11, ST:4, IniST:4, LeaveQ:-1); 
+Queue 5: closed
+
+
+ Time 12 
+Remaining waiting clients: 33
+Queue 1: Client 8 (AT:12, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: Client 27 (AT:10, ST:1, IniST:2, LeaveQ:-1); Client 14 (AT:12, ST:4, IniST:4, LeaveQ:-1); 
+Queue 3: Client 22 (AT:9, ST:2, IniST:5, LeaveQ:-1); 
+Queue 4: Client 18 (AT:11, ST:3, IniST:4, LeaveQ:-1); 
+Queue 5: Client 9 (AT:12, ST:3, IniST:3, LeaveQ:-1); 
+
+
+ Time 13 
+Remaining waiting clients: 31
+Queue 1: Client 8 (AT:12, ST:2, IniST:3, LeaveQ:-1); Client 35 (AT:13, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: Client 14 (AT:12, ST:4, IniST:4, LeaveQ:-1); 
+Queue 3: Client 22 (AT:9, ST:1, IniST:5, LeaveQ:-1); Client 11 (AT:13, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 18 (AT:11, ST:2, IniST:4, LeaveQ:-1); 
+Queue 5: Client 9 (AT:12, ST:2, IniST:3, LeaveQ:-1); 
+
+
+ Time 14 
+Remaining waiting clients: 31
+Queue 1: Client 8 (AT:12, ST:1, IniST:3, LeaveQ:-1); Client 35 (AT:13, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: Client 14 (AT:12, ST:3, IniST:4, LeaveQ:-1); 
+Queue 3: Client 11 (AT:13, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 18 (AT:11, ST:1, IniST:4, LeaveQ:-1); 
+Queue 5: Client 9 (AT:12, ST:1, IniST:3, LeaveQ:-1); 
+
+
+ Time 15 
+Remaining waiting clients: 30
+Queue 1: Client 35 (AT:13, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: Client 14 (AT:12, ST:2, IniST:4, LeaveQ:-1); 
+Queue 3: Client 11 (AT:13, ST:3, IniST:4, LeaveQ:-1); 
+Queue 4: Client 40 (AT:15, ST:7, IniST:7, LeaveQ:-1); 
+Queue 5: closed
+
+
+ Time 16 
+Remaining waiting clients: 30
+Queue 1: Client 35 (AT:13, ST:2, IniST:3, LeaveQ:-1); 
+Queue 2: Client 14 (AT:12, ST:1, IniST:4, LeaveQ:-1); 
+Queue 3: Client 11 (AT:13, ST:2, IniST:4, LeaveQ:-1); 
+Queue 4: Client 40 (AT:15, ST:6, IniST:7, LeaveQ:-1); 
+Queue 5: closed
+
+
+ Time 17 
+Remaining waiting clients: 28
+Queue 1: Client 35 (AT:13, ST:1, IniST:3, LeaveQ:-1); 
+Queue 2: Client 20 (AT:17, ST:3, IniST:3, LeaveQ:-1); 
+Queue 3: Client 11 (AT:13, ST:1, IniST:4, LeaveQ:-1); 
+Queue 4: Client 40 (AT:15, ST:5, IniST:7, LeaveQ:-1); 
+Queue 5: Client 25 (AT:17, ST:3, IniST:3, LeaveQ:-1); 
+
+
+ Time 18 
+Remaining waiting clients: 27
+Queue 1: Client 36 (AT:18, ST:1, IniST:1, LeaveQ:-1); 
+Queue 2: Client 20 (AT:17, ST:2, IniST:3, LeaveQ:-1); 
+Queue 3: closed
+Queue 4: Client 40 (AT:15, ST:4, IniST:7, LeaveQ:-1); 
+Queue 5: Client 25 (AT:17, ST:2, IniST:3, LeaveQ:-1); 
+
+
+ Time 19 
+Remaining waiting clients: 27
+Queue 1: closed
+Queue 2: Client 20 (AT:17, ST:1, IniST:3, LeaveQ:-1); 
+Queue 3: closed
+Queue 4: Client 40 (AT:15, ST:3, IniST:7, LeaveQ:-1); 
+Queue 5: Client 25 (AT:17, ST:1, IniST:3, LeaveQ:-1); 
+
+
+ Time 20 
+Remaining waiting clients: 27
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: Client 40 (AT:15, ST:2, IniST:7, LeaveQ:-1); 
+Queue 5: closed
+
+
+ Time 21 
+Remaining waiting clients: 26
+Queue 1: Client 45 (AT:21, ST:4, IniST:4, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: Client 40 (AT:15, ST:1, IniST:7, LeaveQ:-1); 
+Queue 5: closed
+
+
+ Time 22 
+Remaining waiting clients: 24
+Queue 1: Client 45 (AT:21, ST:3, IniST:4, LeaveQ:-1); 
+Queue 2: Client 37 (AT:22, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 43 (AT:22, ST:6, IniST:6, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 23 
+Remaining waiting clients: 21
+Queue 1: Client 45 (AT:21, ST:2, IniST:4, LeaveQ:-1); 
+Queue 2: Client 37 (AT:22, ST:5, IniST:6, LeaveQ:-1); 
+Queue 3: Client 43 (AT:22, ST:5, IniST:6, LeaveQ:-1); 
+Queue 4: Client 3 (AT:23, ST:1, IniST:1, LeaveQ:-1); Client 46 (AT:23, ST:5, IniST:5, LeaveQ:-1); 
+Queue 5: Client 5 (AT:23, ST:1, IniST:1, LeaveQ:-1); 
+
+
+ Time 24 
+Remaining waiting clients: 19
+Queue 1: Client 45 (AT:21, ST:1, IniST:4, LeaveQ:-1); Client 41 (AT:24, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 37 (AT:22, ST:4, IniST:6, LeaveQ:-1); 
+Queue 3: Client 43 (AT:22, ST:4, IniST:6, LeaveQ:-1); 
+Queue 4: Client 46 (AT:23, ST:5, IniST:5, LeaveQ:-1); 
+Queue 5: Client 23 (AT:24, ST:5, IniST:5, LeaveQ:-1); 
+
+
+ Time 25 
+Remaining waiting clients: 18
+Queue 1: Client 41 (AT:24, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 37 (AT:22, ST:3, IniST:6, LeaveQ:-1); Client 26 (AT:25, ST:3, IniST:3, LeaveQ:-1); 
+Queue 3: Client 43 (AT:22, ST:3, IniST:6, LeaveQ:-1); 
+Queue 4: Client 46 (AT:23, ST:4, IniST:5, LeaveQ:-1); 
+Queue 5: Client 23 (AT:24, ST:4, IniST:5, LeaveQ:-1); 
+
+
+ Time 26 
+Remaining waiting clients: 17
+Queue 1: Client 41 (AT:24, ST:6, IniST:7, LeaveQ:-1); 
+Queue 2: Client 37 (AT:22, ST:2, IniST:6, LeaveQ:-1); Client 26 (AT:25, ST:3, IniST:3, LeaveQ:-1); 
+Queue 3: Client 43 (AT:22, ST:2, IniST:6, LeaveQ:-1); Client 19 (AT:26, ST:7, IniST:7, LeaveQ:-1); 
+Queue 4: Client 46 (AT:23, ST:3, IniST:5, LeaveQ:-1); 
+Queue 5: Client 23 (AT:24, ST:3, IniST:5, LeaveQ:-1); 
+
+
+ Time 27 
+Remaining waiting clients: 16
+Queue 1: Client 41 (AT:24, ST:5, IniST:7, LeaveQ:-1); 
+Queue 2: Client 37 (AT:22, ST:1, IniST:6, LeaveQ:-1); Client 26 (AT:25, ST:3, IniST:3, LeaveQ:-1); 
+Queue 3: Client 43 (AT:22, ST:1, IniST:6, LeaveQ:-1); Client 19 (AT:26, ST:7, IniST:7, LeaveQ:-1); 
+Queue 4: Client 46 (AT:23, ST:2, IniST:5, LeaveQ:-1); Client 16 (AT:27, ST:7, IniST:7, LeaveQ:-1); 
+Queue 5: Client 23 (AT:24, ST:2, IniST:5, LeaveQ:-1); 
+
+
+ Time 28 
+Remaining waiting clients: 10
+Queue 1: Client 41 (AT:24, ST:4, IniST:7, LeaveQ:-1); Client 15 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 26 (AT:25, ST:3, IniST:3, LeaveQ:-1); Client 13 (AT:28, ST:7, IniST:7, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:7, IniST:7, LeaveQ:-1); 
+Queue 4: Client 46 (AT:23, ST:1, IniST:5, LeaveQ:-1); Client 16 (AT:27, ST:7, IniST:7, LeaveQ:-1); 
+Queue 5: Client 23 (AT:24, ST:1, IniST:5, LeaveQ:-1); Client 4 (AT:28, ST:3, IniST:3, LeaveQ:-1); Client 17 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); 
+
+
+ Time 29 
+Remaining waiting clients: 10
+Queue 1: Client 41 (AT:24, ST:3, IniST:7, LeaveQ:-1); Client 15 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 26 (AT:25, ST:2, IniST:3, LeaveQ:-1); Client 13 (AT:28, ST:7, IniST:7, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:6, IniST:7, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:7, IniST:7, LeaveQ:-1); 
+Queue 5: Client 4 (AT:28, ST:3, IniST:3, LeaveQ:-1); Client 17 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); 
+
+
+ Time 30 
+Remaining waiting clients: 9
+Queue 1: Client 41 (AT:24, ST:2, IniST:7, LeaveQ:-1); Client 15 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 26 (AT:25, ST:1, IniST:3, LeaveQ:-1); Client 13 (AT:28, ST:7, IniST:7, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:5, IniST:7, LeaveQ:-1); Client 28 (AT:30, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:6, IniST:7, LeaveQ:-1); 
+Queue 5: Client 4 (AT:28, ST:2, IniST:3, LeaveQ:-1); Client 17 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); 
+
+
+ Time 31 
+Remaining waiting clients: 9
+Queue 1: Client 41 (AT:24, ST:1, IniST:7, LeaveQ:-1); Client 15 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:7, IniST:7, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:4, IniST:7, LeaveQ:-1); Client 28 (AT:30, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:5, IniST:7, LeaveQ:-1); 
+Queue 5: Client 4 (AT:28, ST:1, IniST:3, LeaveQ:-1); Client 17 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); 
+
+
+ Time 32 
+Remaining waiting clients: 7
+Queue 1: Client 15 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:6, IniST:7, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:3, IniST:7, LeaveQ:-1); Client 28 (AT:30, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:4, IniST:7, LeaveQ:-1); Client 32 (AT:32, ST:3, IniST:3, LeaveQ:-1); 
+Queue 5: Client 17 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 42 (AT:32, ST:7, IniST:7, LeaveQ:-1); 
+
+
+ Time 33 
+Remaining waiting clients: 6
+Queue 1: Client 15 (AT:28, ST:1, IniST:2, LeaveQ:-1); Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:5, IniST:7, LeaveQ:-1); Client 44 (AT:33, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:2, IniST:7, LeaveQ:-1); Client 28 (AT:30, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:3, IniST:7, LeaveQ:-1); Client 32 (AT:32, ST:3, IniST:3, LeaveQ:-1); 
+Queue 5: Client 17 (AT:28, ST:1, IniST:2, LeaveQ:-1); Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 42 (AT:32, ST:7, IniST:7, LeaveQ:-1); 
+
+
+ Time 34 
+Remaining waiting clients: 6
+Queue 1: Client 29 (AT:28, ST:6, IniST:6, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:4, IniST:7, LeaveQ:-1); Client 44 (AT:33, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 19 (AT:26, ST:1, IniST:7, LeaveQ:-1); Client 28 (AT:30, ST:4, IniST:4, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:2, IniST:7, LeaveQ:-1); Client 32 (AT:32, ST:3, IniST:3, LeaveQ:-1); 
+Queue 5: Client 49 (AT:28, ST:2, IniST:2, LeaveQ:-1); Client 42 (AT:32, ST:7, IniST:7, LeaveQ:-1); 
+
+
+ Time 35 
+Remaining waiting clients: 4
+Queue 1: Client 29 (AT:28, ST:5, IniST:6, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:3, IniST:7, LeaveQ:-1); Client 44 (AT:33, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 28 (AT:30, ST:4, IniST:4, LeaveQ:-1); Client 7 (AT:35, ST:2, IniST:2, LeaveQ:-1); 
+Queue 4: Client 16 (AT:27, ST:1, IniST:7, LeaveQ:-1); Client 32 (AT:32, ST:3, IniST:3, LeaveQ:-1); Client 30 (AT:35, ST:4, IniST:4, LeaveQ:-1); 
+Queue 5: Client 49 (AT:28, ST:1, IniST:2, LeaveQ:-1); Client 42 (AT:32, ST:7, IniST:7, LeaveQ:-1); 
+
+
+ Time 36 
+Remaining waiting clients: 4
+Queue 1: Client 29 (AT:28, ST:4, IniST:6, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:2, IniST:7, LeaveQ:-1); Client 44 (AT:33, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 28 (AT:30, ST:3, IniST:4, LeaveQ:-1); Client 7 (AT:35, ST:2, IniST:2, LeaveQ:-1); 
+Queue 4: Client 32 (AT:32, ST:3, IniST:3, LeaveQ:-1); Client 30 (AT:35, ST:4, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:7, IniST:7, LeaveQ:-1); 
+
+
+ Time 37 
+Remaining waiting clients: 3
+Queue 1: Client 29 (AT:28, ST:3, IniST:6, LeaveQ:-1); Client 24 (AT:37, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: Client 13 (AT:28, ST:1, IniST:7, LeaveQ:-1); Client 44 (AT:33, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 28 (AT:30, ST:2, IniST:4, LeaveQ:-1); Client 7 (AT:35, ST:2, IniST:2, LeaveQ:-1); 
+Queue 4: Client 32 (AT:32, ST:2, IniST:3, LeaveQ:-1); Client 30 (AT:35, ST:4, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:6, IniST:7, LeaveQ:-1); 
+
+
+ Time 38 
+Remaining waiting clients: 3
+Queue 1: Client 29 (AT:28, ST:2, IniST:6, LeaveQ:-1); Client 24 (AT:37, ST:3, IniST:3, LeaveQ:-1); 
+Queue 2: Client 44 (AT:33, ST:6, IniST:6, LeaveQ:-1); 
+Queue 3: Client 28 (AT:30, ST:1, IniST:4, LeaveQ:-1); Client 7 (AT:35, ST:2, IniST:2, LeaveQ:-1); 
+Queue 4: Client 32 (AT:32, ST:1, IniST:3, LeaveQ:-1); Client 30 (AT:35, ST:4, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:5, IniST:7, LeaveQ:-1); 
+
+
+ Time 39 
+Remaining waiting clients: 0
+Queue 1: Client 29 (AT:28, ST:1, IniST:6, LeaveQ:-1); Client 24 (AT:37, ST:3, IniST:3, LeaveQ:-1); Client 47 (AT:39, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 44 (AT:33, ST:5, IniST:6, LeaveQ:-1); 
+Queue 3: Client 7 (AT:35, ST:2, IniST:2, LeaveQ:-1); Client 2 (AT:39, ST:1, IniST:1, LeaveQ:-1); Client 12 (AT:39, ST:3, IniST:3, LeaveQ:-1); 
+Queue 4: Client 30 (AT:35, ST:4, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:4, IniST:7, LeaveQ:-1); 
+
+
+ Time 40 
+Remaining waiting clients: 0
+Queue 1: Client 24 (AT:37, ST:3, IniST:3, LeaveQ:-1); Client 47 (AT:39, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 44 (AT:33, ST:4, IniST:6, LeaveQ:-1); 
+Queue 3: Client 7 (AT:35, ST:1, IniST:2, LeaveQ:-1); Client 2 (AT:39, ST:1, IniST:1, LeaveQ:-1); Client 12 (AT:39, ST:3, IniST:3, LeaveQ:-1); 
+Queue 4: Client 30 (AT:35, ST:3, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:3, IniST:7, LeaveQ:-1); 
+
+
+ Time 41 
+Remaining waiting clients: 0
+Queue 1: Client 24 (AT:37, ST:2, IniST:3, LeaveQ:-1); Client 47 (AT:39, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 44 (AT:33, ST:3, IniST:6, LeaveQ:-1); 
+Queue 3: Client 2 (AT:39, ST:1, IniST:1, LeaveQ:-1); Client 12 (AT:39, ST:3, IniST:3, LeaveQ:-1); 
+Queue 4: Client 30 (AT:35, ST:2, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:2, IniST:7, LeaveQ:-1); 
+
+
+ Time 42 
+Remaining waiting clients: 0
+Queue 1: Client 24 (AT:37, ST:1, IniST:3, LeaveQ:-1); Client 47 (AT:39, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 44 (AT:33, ST:2, IniST:6, LeaveQ:-1); 
+Queue 3: Client 12 (AT:39, ST:3, IniST:3, LeaveQ:-1); 
+Queue 4: Client 30 (AT:35, ST:1, IniST:4, LeaveQ:-1); 
+Queue 5: Client 42 (AT:32, ST:1, IniST:7, LeaveQ:-1); 
+
+
+ Time 43 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:7, IniST:7, LeaveQ:-1); 
+Queue 2: Client 44 (AT:33, ST:1, IniST:6, LeaveQ:-1); 
+Queue 3: Client 12 (AT:39, ST:2, IniST:3, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 44 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:6, IniST:7, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: Client 12 (AT:39, ST:1, IniST:3, LeaveQ:-1); 
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 45 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:5, IniST:7, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 46 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:4, IniST:7, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 47 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:3, IniST:7, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 48 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:2, IniST:7, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 49 
+Remaining waiting clients: 0
+Queue 1: Client 47 (AT:39, ST:1, IniST:7, LeaveQ:-1); 
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+ Time 50 
+Remaining waiting clients: 0
+Queue 1: closed
+Queue 2: closed
+Queue 3: closed
+Queue 4: closed
+Queue 5: closed
+
+
+All clients processed or time limit reached.
+
+
+ Average waiting time: 1.54
+
+
+
+ Simulation ended 
+
+
