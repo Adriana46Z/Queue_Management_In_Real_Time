@@ -79,13 +79,13 @@ The system features a multi-threaded architecture where each queue operates as a
 
 ```
 Queue_Management_In_Real_Time/
-├── src/                  # Java source files
-│   ├── model/            # Queue and client data models
-│   ├── logic/            # Scheduling strategies and simulation logic
-│   └── gui/              # Real-time visualization
-├── .idea/                # IntelliJ IDEA project settings
-├── Assignment2.iml       # IntelliJ module file
-├── log1.txt              # Sample simulation output log
+├── src/                  
+│   ├── model/           
+│   ├── logic/            
+│   └── gui/             
+├── .idea/                
+├── Assignment2.iml       
+├── log1.txt              
 └── README.md
 ```
 
@@ -98,9 +98,3 @@ Assigns each incoming customer to the queue that currently has the fewest client
 
 ### Shortest Time Strategy
 Assigns each incoming customer to the queue with the lowest total estimated processing time, calculated based on all existing clients and their individual service durations. This approach minimizes overall waiting time more precisely than simple queue length comparison.
-
----
-
-## License
-
-This project is for educational purposes. No license file is currently included in the repository.
